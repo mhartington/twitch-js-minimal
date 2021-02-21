@@ -1,0 +1,17 @@
+{
+  "name": "twitch-js-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslib": "^2.1.0",
+    "twitch-js": "^2.0.0-beta.42",
+    "typescript": "^4.1.5"
+  }
+}
